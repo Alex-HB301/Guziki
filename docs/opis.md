@@ -1,0 +1,10 @@
+android:id="@+id/button5" - id przycisku
+android:layout_width="wrap_content" - szerokosc taka ile zajmuje zawartosc
+android:layout_height="wrap_content" - wysokosc taka ile zajmuje zawartosc
+android:text="Button" - tekst "Button"
+app:layout_constraintBottom_toBottomOf="parent" - sprezynka od dolu do rodzica czyli ekranu
+app:layout_constraintEnd_toEndOf="parent" - sprezynka od prawej do rodzica czyli ekranu
+app:layout_constraintStart_toStartOf="parent" - sprezynka od lewej do rodzica czyli ekranu
+app:layout_constraintTop_toTopOf="parent" - sprezynka od gory do rodzica czyli ekranu
+app:layout_constraintHorizontal_bias="0.75" - przesuniecie w poziomie o 3/4
+app:layout_constraintVertical_bias="0.25" - przesuniecie w pionie o 1/4
